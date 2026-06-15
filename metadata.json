@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game & Music Player",
+  "description": "A retro-future dark neon snake game integrated with an interactive synthesiser-powered music player and real-time audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
